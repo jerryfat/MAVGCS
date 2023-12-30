@@ -59,12 +59,12 @@ date_time = now.strftime("%m/%d/%Y, %H:%M:%S")
 
 
 version = "0.0.01a"
-verdate = "2022-06-29 by J.Fat " #date_time
-title = "TELEDYNE FLIR COMMANDER ",version, " ", verdate
+verdate = "2023-dec-30 by JerryFat " #date_time
+title = "MAVGCS JERRY FAT 2023-Dec30 ",version, " ", verdate
 #
 print(date_time, "####### SYSTEM START ####### SYSTEM START ####### SYSTEM START #######") 
 print(date_time, "#######################################################################")
-print(date_time, "################ INITIALIZE AUTOPILOT COMMANDER APP ###################")
+print(date_time, "################ INITIALIZE MAVGCS JERRY FAT 2023-DEC-30 APP ###################")
 print(date_time, "########## ", title, " #########")
 #
 # GUI INIT GLOBALS
